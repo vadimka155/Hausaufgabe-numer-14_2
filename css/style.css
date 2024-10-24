@@ -1,0 +1,47 @@
+
+
+
+
+.container{
+    width: 1200px;
+padding: 0 15px;
+margin:0 auto;
+
+
+}
+
+h1{
+    font-family: "Rubik Wet Paint";
+    color: orangered;
+    margin-bottom: 111px;
+    padding: 50;
+    text-shadow: 2px 3px 7px #ed73db;
+    text-align: center;
+}
+
+
+
+
+div{font-family:"Orbitron" ;
+
+text-align: center;
+color: gold;
+
+
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px 10px; 
+    margin-bottom: 30px; 
+    border: 2px dashed red; 
+    background-color: green; 
+
+
+
+
+
+}
+
+
+
+
+
